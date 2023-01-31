@@ -1,2 +1,5 @@
 # task-manager
-Manage the tasks here
+
+cd tasks-manager
+npm install
+npm start
